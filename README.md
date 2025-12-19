@@ -1,29 +1,47 @@
 # Hi there! I'm Guilherme França Vieira 👋
 
-<p align="left">
-  <a href="mailto:gfrancavieira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  </p>
+### Full-Stack Engineer | Systems Architect | Navy Veteran ⚓
 
-I am a **Full-Stack Developer** passionate about problem-solving, with a solid foundation in **Mechanical Engineering** and a decade of experience in leadership and discipline as a **Navy** veteran.
+I am a Full-Stack Developer with a solid foundation in **Mechanical Engineering** and a decade of experience in leadership and critical systems maintenance as a **Navy Sergeant**. 
 
-My unique journey has taught me to merge the analytical and structured reasoning of engineering with the creativity of software development to build robust, efficient, and high-quality solutions. After a career dedicated to planning and executing missions, my mission now is to build impactful technology.
+My unique background allows me to merge the mathematical rigor of engineering with modern software development to build robust, scalable, and high-availability solutions. Currently, I am focused on **Event-Driven Architectures** and **Distributed Systems**.
 
 ---
 
-### About Me
+### 🛠️ Featured Projects
 
-- 🌱 I’m currently deepening my knowledge in software architecture and exploring new ecosystems like **Go** and **.NET**.
-- 🔭 I’m actively building my portfolio with projects that showcase my skills in modern web development.
-- 💬 Ask me about **React, Node.js, PHP**, or how military discipline applies to agile software development.
-- 📫 How to reach me: **gfrancavieira@gmail.com**
-- ⚡ Fun fact: I can navigate both a ship and a complex codebase.
+**[ComplianceChain - Polyglot Microservices Architecture](https://github.com/gfranca91/compliance-chain)**
+*A Proof of Concept for a fault-tolerant financial compliance system.*
+* **Architecture:** Event-Driven with RabbitMQ.
+* **Stack:** Node.js (TypeScript) + Python (FastAPI) + Docker.
+* **Key Achievement:** Implemented asynchronous processing with message acknowledgment (ACK) and durability, ensuring 0% data loss during service downtime.
+
+**[NexoPixel - AI-Powered Content Ecosystem](https://github.com/gfranca91/nexopixel)**
+*A full-stack platform for automated content generation and management.*
+* **Stack:** Next.js (React), TypeScript, Supabase (PostgreSQL), Gemini AI API.
+* **Key Achievement:** Developed a complex autonomous backend workflow with Row Level Security (RLS) and real-time data sync.
 
 ---
 
-### 🚀 Languages and Tools
+### 🧠 Skills & Ecosystems
 
-Here are some of the technologies I've been working with:
+* **Languages:** TypeScript, JavaScript (ES6+), Python, PHP.
+* **Frontend:** React.js, Next.js, Tailwind CSS, SASS.
+* **Backend & DB:** Node.js, FastAPI, PostgreSQL (SQL), Supabase, RabbitMQ.
+* **DevOps:** Docker, Docker Compose, CI/CD (GitHub Actions), Vercel.
+* **Soft Skills:** Leadership, Crisis Management, Agile Methodologies (Scrum/Kanban), Technical Mentorship.
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"
+---
+
+### 🌱 Currently Deepening
+* **Backend:** Masterizing **Go** and **.NET (C#)** for enterprise-grade services.
+* **Infrastructure:** Exploring **Kubernetes (K8s)** and Infrastructure as Code (**Terraform**).
+
+---
+
+### 📫 Connect with me
+* **Email:** gfrancavieira@gmail.com
+* **LinkedIn:** [linkedin.com/in/guilherme-frança1991](https://www.linkedin.com/in/guilherme-fran%C3%A7a1991)
+* **WhatsApp:** +55 21 99425 5928
+
+**Fun fact:** I can navigate both a submarine and a complex microservices mesh. 🌊💻
