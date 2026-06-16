@@ -6,7 +6,7 @@ I am a Full-Stack Developer and Mechanical Engineer with 10 years of experience 
 
 Today, I combine engineering discipline, leadership, and analytical thinking with modern software development to create scalable web applications, AI-powered solutions, automation workflows, and distributed systems.
 
-I am particularly interested in Full-Stack Development, AI Integration, Automation, and Software Architecture.
+I build modern web applications with a strong focus on AI integration, automation, scalability, and distributed systems.
 
 ---
 
