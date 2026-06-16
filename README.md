@@ -78,6 +78,6 @@ Git • GitHub
 
 📧 gfrancavieira@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/guilherme-franca-vieira
+🔗 LinkedIn: www.linkedin.com/in/guilherme-frança-862226417
 
 🌎 Open to international opportunities and relocation.
