@@ -2,82 +2,59 @@
 
 ## Full-Stack Developer | Mechanical Engineer | Navy Veteran ⚓
 
-I am a Full-Stack Developer with a solid foundation in Mechanical Engineering and 10 years of experience leading technical teams and maintaining mission-critical systems in the Brazilian Navy.
+I am a Full-Stack Developer and Mechanical Engineer with 10 years of experience working in mission-critical environments, leading technical teams, solving complex operational problems, and building reliable systems.
 
-My background combines engineering discipline, analytical thinking, leadership, and problem-solving with modern software development. I focus on building scalable web applications, distributed systems, automation workflows, and AI-powered solutions.
+Today, I combine engineering discipline, leadership, and analytical thinking with modern software development to create scalable web applications, AI-powered solutions, automation workflows, and distributed systems.
 
----
-
-## 🛠️ Featured Projects
-
-### ComplianceChain – Distributed Microservices Architecture
-
-A proof-of-concept financial compliance platform designed to explore scalable and fault-tolerant distributed systems.
-
-- Event-Driven Architecture with RabbitMQ
-- Node.js (TypeScript) API Gateway
-- Python (FastAPI) Processing Service
-- Dockerized Infrastructure
-- Asynchronous Communication and Message Reliability
-
-**Stack:** Node.js, TypeScript, Python, FastAPI, RabbitMQ, Docker
+I am particularly interested in Full-Stack Development, AI Integration, Automation, and Software Architecture.
 
 ---
 
-### NexoPixel – AI-Powered Content Platform
+## 🚀 Featured Projects
 
-A full-stack platform that automates content generation, processing, and publishing through AI-driven workflows.
+### ComplianceChain
+Distributed microservices architecture designed to simulate a scalable financial compliance processing platform.
 
-- Google Gemini Integration
-- Automated Content Pipelines
-- Supabase Authentication & RLS
-- API Integrations
-- Content Distribution Automation
+**Tech Stack:** Node.js, TypeScript, Python, FastAPI, RabbitMQ, Docker
 
-**Stack:** Next.js, TypeScript, Supabase, PostgreSQL, Gemini AI, Make.com
+### NexoPixel
+AI-powered content platform that automates content generation, processing, and publishing workflows.
 
----
+**Tech Stack:** Next.js, TypeScript, Supabase, PostgreSQL, Gemini AI, Make.com
 
-### Alke Fitness – Fitness Management Platform
+### Alke Fitness
+Fitness management platform currently under development, combining a mobile application and an administrative dashboard.
 
-A full-stack fitness platform currently under development, combining a mobile application and an administrative dashboard.
-
-- Workout Management
-- Student Organization
-- Subscription Control
-- Backend and Database Architecture
-- Mobile and Web Applications
-
-**Stack:** React Native, Expo, React, TypeScript, Supabase, PostgreSQL
+**Tech Stack:** React Native, Expo, React, TypeScript, Supabase, PostgreSQL
 
 ---
 
 ## 🧠 Technical Skills
 
-### Frontend
+**Frontend**
 React • Next.js • TypeScript • JavaScript • React Native • Tailwind CSS
 
-### Backend
+**Backend**
 Node.js • Express.js • FastAPI • REST APIs
 
-### Databases
+**Databases**
 PostgreSQL • Supabase
 
-### Architecture & Infrastructure
+**Architecture & Infrastructure**
 Docker • RabbitMQ • Microservices • Event-Driven Architecture
 
-### AI & Automation
+**AI & Automation**
 Google Gemini • AI Integration • Make.com
 
-### Tools
+**Tools**
 Git • GitHub
 
 ---
 
-## 📫 Connect with Me
+## 🌍 Open to Opportunities
+
+Open to international opportunities and relocation.
 
 📧 gfrancavieira@gmail.com
 
 🔗 LinkedIn: www.linkedin.com/in/guilherme-frança-862226417
-
-🌎 Open to international opportunities and relocation.
